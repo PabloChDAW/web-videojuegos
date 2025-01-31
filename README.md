@@ -11,7 +11,10 @@ Web que permite buscar información sobre videojuegos utilizando una API.
 *Nota 2: Evitar tener duplicado el directorio raíz, uno dentro de otro, sin sobreescribir los archivos ya existentes si ya ha sido creado el repositorio*
 2. **Maquetación y diseño de componentes en papel**
 3. **Creación de componentes y estructura principal**
-- 
+- [Barra de navegación](https://flowbite-react.com/docs/components/navbar)
+- [Carrusel](https://flowbite-react.com/docs/components/carousel)
+-[Pie de página](https://flowbite-react.com/docs/components/footer)
+
 ## 📚 Tecnologías utilizadas:
 
 - HTML5
