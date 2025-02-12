@@ -6,7 +6,7 @@ const PieDePagina = () => {
   return (
     <div>
       <Footer container>
-      <div className="w-full">
+      <div className="fixed inset-x-0 bottom-4 w-full p-5">
         <div className="grid w-full justify-between sm:flex sm:justify-between md:flex md:grid-cols-1">
           <div>
             <Footer.Brand

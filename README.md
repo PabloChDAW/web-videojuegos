@@ -13,7 +13,7 @@ Web que permite buscar información sobre videojuegos utilizando una API.
 3. **Creación de componentes y estructura principal**
 - [Barra de navegación](https://flowbite-react.com/docs/components/navbar)
 - [Carrusel](https://flowbite-react.com/docs/components/carousel)
--[Pie de página](https://flowbite-react.com/docs/components/footer)
+- [Pie de página](https://flowbite-react.com/docs/components/footer)
 
 ## 📚 Tecnologías utilizadas:
 
